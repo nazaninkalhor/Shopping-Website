@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: '#365314', 
+    --black: '#1C1917',
+
+  }
